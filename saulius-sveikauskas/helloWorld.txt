@@ -1,1 +1,1 @@
-HelloWorld!
+Hello World from merge-conflict branch!
